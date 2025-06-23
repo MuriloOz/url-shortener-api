@@ -19,8 +19,8 @@ Com ele, aprendi sobre roteamento, manipulação de dados, e como construir serv
 - CORS (para permitir requisições de diferentes origens)
 - Body-parser (para interpretar requisições HTTP)
 
-- Durante o desenvolvimento, aprofundei meus conhecimentos em:
-- 
+## Durante o desenvolvimento, aprofundei meus conhecimentos em:
+
 Criação de APIs RESTful.
 
 Manipulação de rotas e parâmetros.
